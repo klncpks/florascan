@@ -50,9 +50,11 @@ Download Pl@ntNet dataset from this link :- https://zenodo.org/records/5645731#.
 
 Download the repository python files and also download all the required libraries
 
+Firstly run the "json_to_csv.py" file by filling the required .json file location from the dataset.
+
 Obtain API keys for Pl@ntNet and OpenAI GPT-3.5 Turbo, Use those API keys in the code where there are required and Save it.
 
-Also fill in the directory locations of the dataset and background image(optional) in the code accordingly.
+Also fill in the directory locations of the dataset, background image(optional), .csv file, etc.. in the code accordingly.
 
 Run the application by using commands "streamlit run flora_scan.py" in the terminal.
 
